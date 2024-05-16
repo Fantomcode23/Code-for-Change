@@ -1,9 +1,8 @@
 Screen 1: Start
-Screen 2: Sing UP
-Screen 3: Log IN
-Screen 4: Questions
-screen 5: Home
-Screen 6: Profile
-Screen 7: Scanner
-Screen 8: Scan Result
-Screen 9: Safe Shop
+Screen 2: Sign UP and Sign IN
+Screen 3: Questions
+screen 4: Home
+Screen 5: Profile
+Screen 6: Scanner
+Screen 7: Scan Result
+Screen 8: Safe Shop
