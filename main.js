@@ -1,5 +1,6 @@
 (() => {
-  
+    let width = screen.width;
+    let height = width / (4 / 3);
 
     let streaming = false;
   
@@ -15,9 +16,8 @@
       photo = document.getElementById("photo");
       startbutton = document.getElementById("startbutton");
       
-      let width = screen.width;
-      let height = width / (4 / 3);
-      video.setAttribute("height", height);
+      
+      //video.setAttribute("height", height);
       navigator.mediaDevices
         .getUserMedia({ video: true, audio: false })
         .then((stream) => {
